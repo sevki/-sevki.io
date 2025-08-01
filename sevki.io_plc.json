@@ -1,0 +1,19 @@
+{
+  "did": "did:plc:yjkapwq5alqxwd6qypvutkho",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shNdBdbBMwq9QjwqSrQUJzD7KDQqGf3TTUKBYJjUWXoeVG"
+  },
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "alsoKnownAs": [
+    "at://sevki.io"
+  ],
+  "services": {
+    "atproto_pds": {
+      "type": "AtprotoPersonalDataServer",
+      "endpoint": "https://shimeji.us-east.host.bsky.network"
+    }
+  }
+}
